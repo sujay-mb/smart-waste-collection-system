@@ -1,0 +1,12 @@
+# Real credentials (never upload)
+db_config.py
+.env
+
+# Python junk
+__pycache__/
+*.pyc
+venv/
+
+# OS/editor files
+Thumbs.db
+.vscode/
